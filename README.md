@@ -58,16 +58,17 @@ El modelo relacional ha sido diseñado siguiendo principios de normalización pa
 mi-proyecto-nexshop/
 │
 ├── docs/
-│   └── diagrama-er.png
+│   └── Capturas - Consultas.pdf
+│   ├── Diagrama_ER.png
+│   ├── Memoria de Análisis
+│   └── Modelo Relacional
 │
 ├── sql/
-│   ├── schema.sql
-│   ├── inserts.sql
-│   └── consultas.sql
+│   ├── consultas.sql
+│   ├── datos.sql
+│   └── schema.sql
 │
 ├── README.md
-│
-└── LICENSE
 ```
 
 ---
