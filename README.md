@@ -60,8 +60,8 @@ mi-proyecto-nexshop/
 ├── docs/
 │   └── Capturas - Consultas.pdf
 │   ├── Diagrama_ER.png
-│   ├── Memoria de Análisis
-│   └── Modelo Relacional
+│   ├── Memoria de Análisis.pdf
+│   └── Modelo Relacional.pdf
 │
 ├── sql/
 │   ├── consultas.sql
